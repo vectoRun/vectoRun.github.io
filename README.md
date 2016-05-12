@@ -6,4 +6,4 @@ Link: [https://vectoRun.com/](https://vectoRun.com/)
 
 Присоединиться к нам в данный можно посредством социальных сетей:
   * [Facebook](https://facebook.com/vectoRun)
-  * [GitHub](https://github.com/vectoRun)READ
+  * [GitHub](https://github.com/vectoRun)
